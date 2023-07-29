@@ -1,5 +1,5 @@
 # Đề bài
-## Viết chương trình tính tính tổng các phần tử trong mảng 2 chiều
+## Viết chương trình tính tổng các phần tử trong mảng 2 chiều
 # Dữ liệu vào
 ##  Số hàng
 ##  Số cột
@@ -13,5 +13,3 @@
 ## 5 7
 # Output
 ## 16
-
-–
